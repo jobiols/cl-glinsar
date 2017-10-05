@@ -38,6 +38,7 @@ Customización Glinsar SRL
 
         'sale',
         'account_accountant',
+        'crm'
     ],
 
     'data': [
