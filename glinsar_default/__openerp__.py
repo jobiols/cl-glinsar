@@ -34,11 +34,13 @@ Customización Glinsar SRL
     'depends': [
         'support_branding_jeosoft', # soporte de jeosoft y + modulos utilitarios
 
+        # aplicaciones instaladas
         'sale',                     # ventas
         'crm',                      # crm
         'purchase',                 # compras
         'project',                  # project
-        'account_accountant',
+        'website',                  # constructor de sitios web
+        'account_accountant',       # permisos para contabilidad
 
     ],
 
