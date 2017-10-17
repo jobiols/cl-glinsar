@@ -35,12 +35,12 @@ Customización Glinsar SRL
         'support_branding_jeosoft', # soporte de jeosoft y + modulos utilitarios
 
         # aplicaciones instaladas
-        'sale',                     # ventas
-        'crm',                      # crm
-        'purchase',                 # compras
-        'project',                  # project
-        'website',                  # constructor de sitios web
-        'account_accountant',       # permisos para contabilidad
+        'sale', 'l10n_ar_aeroo_sale',           # ventas
+        'crm',                                  # crm
+        'purchase', 'l10n_ar_aeroo_purchase',   # compras
+        'project',                              # project
+        'website',                              # constructor de sitios web
+        'account_accountant',                   # permisos para contabilidad
 
     ],
 
