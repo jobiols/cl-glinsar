@@ -32,16 +32,18 @@ Customización Glinsar SRL
 """,
     'author': 'jeo Software',
     'depends': [
-        'support_branding_jeosoft', # soporte de jeosoft y + modulos utilitarios
+        'support_branding_jeosoft',  # soporte de jeosoft y + modulos utilitarios
 
         # aplicaciones instaladas
-        'sale', 'l10n_ar_aeroo_sale',           # ventas
-        'crm',                                  # crm
-        'purchase', 'l10n_ar_aeroo_purchase',   # compras
-        'project',                              # project
-        'website',                              # constructor de sitios web
-        'account_accountant',                   # permisos para contabilidad
-
+        'sale', 'l10n_ar_aeroo_sale',  # ventas
+        'purchase', 'l10n_ar_aeroo_purchase',  # compras
+        'account_accountant',  # permisos para contabilidad
+        'l10n_ar_aeroo_stock',
+        # requeridos por el cliente
+        'hr_expense'
+        'crm',
+        'website',  # constructor de sitios web
+        'project',  # project
     ],
 
     'data': [
