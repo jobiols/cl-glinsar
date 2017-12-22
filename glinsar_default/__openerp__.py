@@ -40,7 +40,7 @@ Customización Glinsar SRL
         'account_accountant',  # permisos para contabilidad
         'l10n_ar_aeroo_stock',
         # requeridos por el cliente
-        'hr_expense'
+        'hr_expense',
         'crm',
         'website',  # constructor de sitios web
         'project',  # project
