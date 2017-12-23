@@ -61,8 +61,8 @@ env:
   #- TRANSIFEX_ORGANIZATION='adhoc'
   #- TRANSIFEX_TEAM='46451'
 
-#  matrix:
-#  - LINT_CHECK="1"
+  matrix:
+  - LINT_CHECK="1"
 #  - TESTS="0" ODOO_REPO="odoo/odoo"
 # either use the two lines above or the two below. Don't change the default if
 # it's not necessary (it is only necessary if modules in your repository can't
