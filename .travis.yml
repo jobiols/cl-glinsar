@@ -1,9 +1,5 @@
 language: python
 sudo: false
-cache:
-  apt: true
-  directories:
-    - $HOME/.cache/pip
 
 python:
   - "2.7"
@@ -73,6 +69,9 @@ env:
 
 virtualenv:
   system_site_packages: true
+
+git:
+  depth: 1
 
 install:
   - git clone --depth=1 https://github.com/OCA/maintainer-quality-tools.git ${HOME}/maintainer-quality-tools
