@@ -24,14 +24,7 @@
     'license': 'Other OSI approved licence',
     'category': 'Tools',
     'summary': 'Customización Glinsar srl',
-    'description': """
-
-
-[![Build Status](https://travis-ci.org/jobiols/cl-glinsar.svg?branch=9.0)](https://travis-ci.org/jobiols/cl-glinsar)
-
-Customización Glinsar SRL
-=========================
-""",
+    'description': """""",
     'author': 'jeo Software',
     'depends': [
         'support_branding_jeosoft',  # soporte de jeosoft y + modulos utilitarios
