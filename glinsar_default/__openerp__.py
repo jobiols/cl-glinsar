@@ -19,12 +19,11 @@
 #
 # -----------------------------------------------------------------------------------
 {
-    'name': 'glinsar',
-    'version': '9.0.1.1',
+    'name': 'Glinsar',
+    'version': '9.0.2.1',
     'license': 'Other OSI approved licence',
     'category': 'Tools',
     'summary': 'Customización Glinsar srl',
-    'description': """""",
     'author': 'jeo Software',
     'depends': [
         'support_branding_jeosoft',
