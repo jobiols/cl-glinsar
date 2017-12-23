@@ -27,7 +27,7 @@
     'description': """""",
     'author': 'jeo Software',
     'depends': [
-        'support_branding_jeosoft',  # soporte de jeosoft y + modulos utilitarios
+        'support_branding_jeosoft',  # soporte de jeosoft y + modulos utilitarios #NOQA
 
         # aplicaciones instaladas
         'sale', 'l10n_ar_aeroo_sale',  # ventas
