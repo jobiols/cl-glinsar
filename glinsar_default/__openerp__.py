@@ -28,7 +28,7 @@
     'depends': [
         'support_branding_jeosoft',
 
-        # aplicaciones instaladas
+        # modulos instalados
         'sale', 'l10n_ar_aeroo_sale',  # ventas
         'purchase', 'l10n_ar_aeroo_purchase',  # compras
         'account_accountant',  # permisos para contabilidad
@@ -38,6 +38,7 @@
         'crm',
         'website',  # constructor de sitios web
         'project',  # project
+        'product_unique',
     ],
 
     'data': [
