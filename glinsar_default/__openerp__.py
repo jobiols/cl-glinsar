@@ -20,7 +20,7 @@
 # -----------------------------------------------------------------------------------
 {
     'name': 'Glinsar',
-    'version': '9.0.2.1',
+    'version': '9.0.3.0',
     'license': 'Other OSI approved licence',
     'category': 'Tools',
     'summary': 'Customización Glinsar srl',
