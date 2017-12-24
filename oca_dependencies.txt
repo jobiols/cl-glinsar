@@ -1,2 +1,2 @@
 odoo-addons https://github.com/jobiols/odoo-addons 9.0
-
+ingadhoc-product https://github.com/ingadhoc/product.git 9.0
