@@ -2,7 +2,10 @@
 <openerp>
     <data noupdate="0">
 
-        <!-- remito modificado, saca el odt de glinsar_default -->
+        <!-- remito modificado, saca el odt de glinsar_default
+        
+            esto no funciona tuve que ponerlo con la gui
+        -->
 
         <record id="l10n_ar_aeroo_stock.action_aeroo_report_ar_stock_picking"
                 model="ir.actions.report.xml">
