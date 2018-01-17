@@ -19,8 +19,8 @@
 #
 # -----------------------------------------------------------------------------------
 {
-    'name': 'Glinsar',
-    'version': '9.0.3.0',
+    'name': 'GLINSAR',
+    'version': '9.0.4.0',
     'license': 'Other OSI approved licence',
     'category': 'Tools',
     'summary': 'Customización Glinsar srl',
@@ -42,6 +42,7 @@
     ],
 
     'data': [
+        'views/custom_reports.xml'
     ],
     'test': [
     ],
