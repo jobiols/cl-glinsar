@@ -55,6 +55,7 @@
     'repos': [
         {'usr': 'jobiols', 'repo': 'cl-glinsar', 'branch': '9.0'},
         {'usr': 'jobiols', 'repo': 'odoo-addons', 'branch': '9.0'},
+        {'usr': 'jobiols', 'repo': 'meli_oerp', 'branch': 'master'},
     ],
     'docker': [
         {'name': 'aeroo', 'usr': 'jobiols', 'img': 'aeroo-docs'},
