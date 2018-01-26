@@ -39,6 +39,7 @@
         'website',  # constructor de sitios web
         'project',  # project
         'product_unique',
+        'meli_oerp'
     ],
 
     'data': [
