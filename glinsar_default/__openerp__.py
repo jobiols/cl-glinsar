@@ -39,7 +39,8 @@
         'website',  # constructor de sitios web
         'project',  # project
         'product_unique',
-        'meli_oerp'
+        'meli_oerp',
+        'account_invoice_tax_wizard'
     ],
 
     'data': [
